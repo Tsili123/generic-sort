@@ -1,8 +1,3 @@
-/*
- *  Created on: November 12, 2012
- *      Author: Gil Mizrahi
- */
-
  // ------------------ Quick sort ----------------------
  
 #include "quicksort.h"
